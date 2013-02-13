@@ -2,7 +2,7 @@
 
   Requirements
     This project was tested on Ubuntu 12.10.
-    You must to have installed:
+
       -to run spell checker you need JRE
         sudo apt-get install openjdk-6-jre
       -to compile java sources you need JDK
@@ -12,7 +12,7 @@
     To get started with Spell Checker, you'll need to get familiar with Git.
 
     To initialize your local repository using the Spell Checker trees, use a command like this:
-          $git clone https://github.com/TeacaAlex/Ants.git
+          $git clone https://github.com/TeacaAlex/SpellChecker.git
     Then:
           
 
