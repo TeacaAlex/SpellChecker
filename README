@@ -12,9 +12,14 @@
     To get started with Spell Checker, you'll need to get familiar with Git.
 
     To initialize your local repository using the Spell Checker trees, use a command like this:
-          $git clone https://github.com/TeacaAlex/SpellChecker.git
+          $ git clone https://github.com/TeacaAlex/SpellChecker.git
     Then:
-          
+          $ cd SpellChecker/
+          $ cd sources/
+          $ make
+          $ make run
+            Type your input.
+            standard input: "schaprobl mcanbe easilisolved"
+            standard output: "such a problem can be easily solved"
 
-    If the last command lunched the visualizer.jar, you have succeeded to run
-    the project. Congratulations!!!
+
